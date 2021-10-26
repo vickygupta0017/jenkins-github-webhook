@@ -3,7 +3,7 @@
 <body>     
 
 
-<h1>Welcome to Test Project</h1>
+<h1>Welcome to Test Project 1</h1>
 
 <?php
 echo "Hello World!";
