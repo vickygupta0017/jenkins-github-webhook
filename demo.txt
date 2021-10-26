@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>     
+
+
+<h1>Welcome to PHP Project</h1>
+
+<?php
+echo "Hello World!";
+echo "Welcome to Devopshint";
+?>
+
+</body>
+</html>
